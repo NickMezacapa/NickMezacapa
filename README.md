@@ -1,3 +1,3 @@
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NickMezacapa&theme=dark)
-
+<p align='center'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=NickMezacapa&theme=dark' />
+</p>
