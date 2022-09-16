@@ -8,14 +8,13 @@
 ✏️       Currently learning.. AWS, Design Patterns<br />
 💼      Open to discuss employment opportunities<br />
 <br />
-<br />
-👇  Run this in your console or terminal to connect with me
-```
+
+#### 👇  Run this command in your console or terminal to connect with me
+```bash
 npx nickmez
 ```
-👆  This command line tool can be found at [npx nickmez](https://github.com/NickMezacapa/npm-business-card)
-<br />
-<br />
+<br>
+
 #### ⚡️ Technologies<br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
