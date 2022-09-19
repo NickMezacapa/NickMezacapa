@@ -9,7 +9,7 @@
 💼      Open to discuss employment opportunities<br />
 <br />
 
-#### 👇  Run this command in your console or terminal to connect with me
+#### 👇  Run this command in your terminal to connect with me
 ```bash
 npx nickmez
 ```
