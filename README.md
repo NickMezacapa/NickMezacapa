@@ -2,7 +2,7 @@
 *Full-Stack* *Software* *Engineer*
 <br />
 <br />
-🤝      Looking to collaborate on ambitious open-source projects<br />
+🤝      Looking to collaborate on ambitious projects<br />
 💭      Ask me about.. React, TypeScript<br />
 🧐      Curious about.. Internet Privacy, Data Protection<br />
 ✏️       Currently learning.. AWS, Design Patterns<br />
