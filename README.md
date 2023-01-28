@@ -1,12 +1,11 @@
 # Welcome 👨‍💻
-*Full-Stack* *Software* *Engineer*
+*Full-Stack* *Developer*
 <br />
 <br />
 🤝      Looking to collaborate on ambitious projects<br />
-💭      Ask me about.. React, TypeScript<br />
 🧐      Curious about.. Internet Privacy, Data Protection<br />
 ✏️       Currently learning.. AWS, Design Patterns<br />
-💼      Open to discuss employment opportunities<br />
+💼      Currently working on.. [this side project](https://github.com/NickMezacapa/articulai)<br />
 <br />
 
 #### 👇  Run this command in your terminal to connect with me
@@ -15,7 +14,13 @@ npx nickmez
 ```
 <br>
 
-#### ⚡️ Technologies<br />
+<details>
+  <summary>
+    ⚡️ Main Technologies
+  </summary>
+  
+  <br>
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -41,8 +46,12 @@ npx nickmez
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-<br />
-<br />
-<br />
+  
+  </details>
+
+<details>
+  <summary>⚙️ GitHub Statistics</summary>
+  <br>
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=NickMezacapa&theme=blue-green' />
+  </details>
 
