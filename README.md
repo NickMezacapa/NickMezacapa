@@ -1,10 +1,10 @@
 # Welcome 👨‍💻
-*Full-Stack* *Developer*
+*Full-Stack* *TypeScript* *and* *Python* *Developer*
 <br />
 <br />
 🤝      Looking to collaborate on ambitious projects<br />
 🧐      Curious about.. Internet Privacy, Data Protection<br />
-✏️       Currently learning.. AWS, Design Patterns<br />
+✏️       Currently learning.. AI/ML Engineering, AI Specialization in Healthcare - [Stanford Online](https://online.stanford.edu/explore?type=program)<br />
 💼      Currently working on.. [this side project](https://github.com/NickMezacapa/articulai)<br />
 <br />
 
