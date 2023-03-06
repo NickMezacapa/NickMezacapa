@@ -14,6 +14,10 @@ npx nickmez
 ```
 <br>
 
+*Looking* *for* *contributers* *for* *my* [*VS* *Code* *Extension*](https://github.com/NickMezacapa/logdog-vscode) 📬
+<br>
+<br>
+
 <details>
   <summary>
     ⚡️ Main Technologies
