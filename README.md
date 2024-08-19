@@ -3,7 +3,7 @@
 <br />
 <br />
 🤝      Looking to collaborate on ambitious projects<br />
-🧐      Curious about.. Internet Privacy, Data Protection<br />
+🧐      Curious about.. Internet Privacy, Data Protection, Quantum Computing<br />
 ✏️       Currently learning.. AI/ML Engineering, AI Specialization in Healthcare - [Stanford Online](https://online.stanford.edu/explore?type=program)<br />
 💼      Currently working on.. [this side project](https://github.com/NickMezacapa/swoop-search-engine)<br />
 <br />
